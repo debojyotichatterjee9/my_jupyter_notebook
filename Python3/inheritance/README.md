@@ -10,4 +10,4 @@ Complete the Student class by writing the following:
     * An integer array (or vector) of test scores, ***scores***.
 * A char ***calculate()*** method that calculates a Student object's average and returns the grade character representative of their calculated average:
 
-![image.png](attachment:image.png)
+![image.png](./gradingScale.png)
