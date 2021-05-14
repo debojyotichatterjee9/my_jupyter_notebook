@@ -36,6 +36,7 @@ The input forms the following BST:
 ![image.png](./input_forms.png)
 
 The longest root-to-leaf path is shown below:
+
 ![image-2.png](./longest_root.png)
 
 
