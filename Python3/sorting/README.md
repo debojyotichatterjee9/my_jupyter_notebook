@@ -1,11 +1,11 @@
 ### Problem Statement
 
 Consider the following version of Bubble Sort:
-
+___
+```javascript
 for (int i = 0; i < n; i++) {
     // Track number of elements swapped during a single array traversal
     int numberOfSwaps = 0;
- ```javascript   
     for (int j = 0; j < n - 1; j++) {
         // Swap adjacent elements if they are in decreasing order
         if (a[j] > a[j + 1]) {
